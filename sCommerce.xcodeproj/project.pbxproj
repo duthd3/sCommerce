@@ -22,6 +22,7 @@
 		BF891D672D998A2900ECDAC1 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891D662D998A2900ECDAC1 /* HomeViewController.swift */; };
 		BF891D692D998A3000ECDAC1 /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF891D682D998A3000ECDAC1 /* Home.storyboard */; };
 		BF891D6F2D998E9200ECDAC1 /* HomeBannerCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891D6E2D998E9200ECDAC1 /* HomeBannerCollectionViewCell.swift */; };
+		BFEECBFE2DC9D7040065CAEA /* HomeProductCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFEECBFD2DC9D7040065CAEA /* HomeProductCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		BF891D662D998A2900ECDAC1 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		BF891D682D998A3000ECDAC1 /* Home.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
 		BF891D6E2D998E9200ECDAC1 /* HomeBannerCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeBannerCollectionViewCell.swift; sourceTree = "<group>"; };
+		BFEECBFD2DC9D7040065CAEA /* HomeProductCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeProductCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				BF891D682D998A3000ECDAC1 /* Home.storyboard */,
 				BF891D662D998A2900ECDAC1 /* HomeViewController.swift */,
 				BF891D6E2D998E9200ECDAC1 /* HomeBannerCollectionViewCell.swift */,
+				BFEECBFD2DC9D7040065CAEA /* HomeProductCollectionViewCell.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF891D412D984A6500ECDAC1 /* AppDelegate.swift in Sources */,
+				BFEECBFE2DC9D7040065CAEA /* HomeProductCollectionViewCell.swift in Sources */,
 				BF891D5F2D99811900ECDAC1 /* SCImage.swift in Sources */,
 				BF891D672D998A2900ECDAC1 /* HomeViewController.swift in Sources */,
 				BF891D432D984A6500ECDAC1 /* SceneDelegate.swift in Sources */,
